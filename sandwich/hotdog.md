@@ -1,4 +1,4 @@
 tomate
 salade
 saucisse
-![Photo de hotdog](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gettyimages.fr%2Fphotos%2Fhot-dog&psig=AOvVaw2LPuVND5-JWaOoWRyyzI8p&ust=1686219468300000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiC0JX3sP8CFQAAAAAdAAAAABAE)
+![Photo de hotdog](https://media.gettyimages.com/id/1198026617/fr/photo/hot-dog-isolated.jpg?s=2048x2048&w=gi&k=20&c=J-FrZCIHTHif60yas9IXibTTVMI4tKUo74PRhIXk52A=)
